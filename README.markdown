@@ -1,5 +1,7 @@
-Knockout Demo App JavaScript library
+Knockout Presentation
+
 (c) Joe McBride - http://uicraftsman.com/
+
 License: MIT (http://www.opensource.org/licenses/mit-license.php)
 
 Presentation files for [Knockout] (http://knockoutjs.com).
